@@ -1,10 +1,3 @@
-//
-//  DetailViewController.swift
-//  TableViewProject
-//
-//  Created by 中村亮介 on 2021/04/09.
-//
-
 import UIKit
 
 class DetailViewController: UIViewController {
